@@ -1,7 +1,6 @@
 ### Hi there 👋
 My Name it"s Mike
 Front-End Developer  
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 <!--
 **mike14112/mike14112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
