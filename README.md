@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikheil</h1>
-<h3 align="center">Hello, my name is Mikheil, and I am an aspiring frontend developer. I chose frontend development because I am passionate about creating modern web interfaces and web applications. I also enjoy working in a team - sharing experiences and learning from each other. Throughout my studies, I have never lost interest in this field and have always strived to improve my skills. I find my own study materials and constantly improve myself, learning new technologies. I love the profession I have chosen.</h3>
+<h3 align="center">I'm a Frontend Dev from Georgia
+
+Now I'm based in Georgia 🇬🇪 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mike14112&label=Profile%20views&color=0e75b6&style=flat" alt="mike14112" /> </p>
 
