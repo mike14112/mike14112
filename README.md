@@ -8,13 +8,13 @@
 <h3 align="left">I'm a Frontend Dev from Georgia
 
 Now I'm based in Georgia 🇬🇪 </h3>
-
+<p align="left">
 - 🔭 I’m currently working on [Meals](https://github.com/mike14112/Meals)
 
 - 🌱 I’m currently learning **Vue, Pinia**
 
 - ⚡ Facts about me **Friendly, Responsible, Hardworking, Caring.**
-
+  </p>
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mikheil-avetisiani/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
