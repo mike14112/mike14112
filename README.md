@@ -24,7 +24,7 @@
 </ul>
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mikheil-avetisiani/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/mikheil-avetisiani/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
 <a href="https://t.me/Mike_14112" target="_blank"><img  src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="telegram-app--v1"/></a>
 </p>
 
