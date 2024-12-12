@@ -15,7 +15,7 @@
 </li>
 
 <li align="left">
-🌱 I’m currently learning **Vue, Nuxt**
+🌱 I’m currently learning **Nuxt**
 </li>
 <li align="left">
 ⚡ Facts about me **I write code whenever I have free time.**
