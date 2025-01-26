@@ -10,13 +10,7 @@
 </h3>
 
 <ul>
-<li align="left">
- 🔭 I’m currently working on [Meals](https://github.com/mike14112/Meals)
-</li>
 
-<li align="left">
-🌱 I’m currently learning **Nuxt**
-</li>
 <li align="left">
 ⚡ Facts about me **I write code whenever I have free time.**
 </li>
@@ -24,7 +18,7 @@
 </ul>
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://t.me/Mike_14112" target="_blank"><img  src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="telegram-app--v1"/></a>
+<a href="https://t.me/Mike_dev1" target="_blank"><img  src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="telegram-app--v1"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
