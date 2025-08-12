@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mike14112&label=Profile%20views&color=0e75b6&style=flat" alt="mike14112" /> </p>
 
 </div>
-<h3 align="left">I'm a Frontend Dev from Georgia
+<h3 align="left">I'm a  Dev from Georgia
 
 </h3>
 
