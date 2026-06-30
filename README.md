@@ -30,11 +30,6 @@ It covers both fundamental concepts and advanced topics commonly discussed durin
 
 ## 📂 Repository Structure
 
-```text
-.
-├── Interview.md      # Main interview questions and answers
-└── README.md
-```
 
 ## 📚 Topics Covered
 
@@ -73,20 +68,6 @@ This repository is intended for:
 * Manual QA Engineers transitioning to automation
 * Python Automation Engineers
 * Anyone preparing for QA Automation interviews
-
-## 💡 How to Use
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/<your-username>/<repository-name>.git
-```
-
-2. Open the main interview guide:
-
-```text
-Interview.md
-```
 
 3. Study each topic step by step.
 
