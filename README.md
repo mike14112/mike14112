@@ -1,4 +1,4 @@
-# QA Automation Interview Preparation (Python)
+# QA Automation (Python)
 
 > A comprehensive collection of interview questions, answers, and study materials for **QA Automation Engineers** specializing in **Python**.
 
