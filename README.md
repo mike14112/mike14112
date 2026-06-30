@@ -1,35 +1,122 @@
-<div style="display:flex; justify-content:space-between; align-content: center;">
-<h1 >Hi 👋, I'm Mikheil</h1>
+# QA Automation Interview Preparation (Python)
 
+> A comprehensive collection of interview questions, answers, and study materials for **QA Automation Engineers** specializing in **Python**.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mike14112&label=Profile%20views&color=0e75b6&style=flat" alt="mike14112" /> </p>
+## 📖 About
 
-</div>
-<h3 align="left">I'm a  Dev from Georgia
+This repository is designed to help QA Automation Engineers prepare for technical interviews at the **Middle**, **Middle+**, and **Senior** levels.
 
-</h3>
+It covers both fundamental concepts and advanced topics commonly discussed during interviews.
 
-<ul>
+## 🚀 Tech Stack
 
-<li align="left">
-⚡ Facts about me **I write code whenever I have free time.**
-</li>
+* Python
+* Pytest
+* Requests
+* Selenium
+* Playwright
+* SQL (PostgreSQL)
+* Docker
+* Linux
+* Git
+* CI/CD
+* Jenkins
+* GitHub Actions
+* GitLab CI
+* Kafka
+* gRPC
+* Kubernetes
+* Allure Report
 
-</ul>
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://t.me/Mike_dev1" target="_blank"><img  src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="telegram-app--v1"/></a>
-</p>
+## 📂 Repository Structure
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>  </p>
+```text
+.
+├── Interview.md      # Main interview questions and answers
+└── README.md
+```
 
+## 📚 Topics Covered
 
+* Python Fundamentals
+* Object-Oriented Programming (OOP)
+* Pytest
+* API Testing
+* REST & HTTP
+* UI Automation (Selenium / Playwright)
+* SQL & PostgreSQL
+* Linux
+* Docker
+* Docker Compose
+* Git
+* CI/CD Pipelines
+* Test Framework Architecture
+* Design Patterns
+* Page Object Model
+* Logging
+* Allure Reporting
+* Parallel Test Execution
+* Mocking & Stubbing
+* Kafka
+* gRPC
+* Kubernetes
+* OAuth
+* Authentication & Authorization
+* Best Practices in Test Automation
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mike14112&showicons=true&locale=en&layout=compact" alt="mike14112" /></p>
+## 🎯 Who Is This For?
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mike14112" alt="mike14112" /></a> </p>
+This repository is intended for:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mike14112&theme=dark" alt="mike14112" /></p>
+* QA Automation Engineers
+* Software Test Engineers
+* Manual QA Engineers transitioning to automation
+* Python Automation Engineers
+* Anyone preparing for QA Automation interviews
 
+## 💡 How to Use
 
+1. Clone the repository:
+
+```bash
+git clone https://github.com/<your-username>/<repository-name>.git
+```
+
+2. Open the main interview guide:
+
+```text
+Interview.md
+```
+
+3. Study each topic step by step.
+
+4. Practice answering questions aloud as if you were in a real interview.
+
+## 📈 Recommended Learning Path
+
+1. Python
+2. Object-Oriented Programming
+3. Pytest
+4. API Testing
+5. Selenium / Playwright
+6. SQL
+7. Linux
+8. Docker
+9. Git
+10. CI/CD
+11. Kafka
+12. Kubernetes
+
+## ⭐ Goal
+
+The goal of this repository is to help engineers build confidence, strengthen their technical knowledge, and successfully pass QA Automation interviews.
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+If you'd like to improve the interview materials, fix mistakes, or add new topics, feel free to open an issue or submit a pull request.
+
+## 📄 License
+
+This project is licensed under the MIT License.
