@@ -28,9 +28,6 @@ It covers both fundamental concepts and advanced topics commonly discussed durin
 * Kubernetes
 * Allure Report
 
-## 📂 Repository Structure
-
-
 ## 📚 Topics Covered
 
 * Python Fundamentals
